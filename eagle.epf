@@ -54,6 +54,14 @@ State=1
 Number=0
 
 [Desktop]
+<<<<<<< HEAD
 Screen="1080 1920"
+=======
+<<<<<<< HEAD
+Screen="1366 768"
+=======
+Screen="1920 1080"
+>>>>>>> 7ea0a8deaa0db728386a4e2be539f9553864a7f6
+>>>>>>> bd7fef05d4d2ab6dc10e7ca2048e7fc1d6f5ee13
 Window="Win_1"
 Window="Win_2"
